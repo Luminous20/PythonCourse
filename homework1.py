@@ -1,3 +1,8 @@
+
+# Homework by Clara Schlosser KU 0073323
+# For INTL 308
+
+
 import random #Import the package random to afterwards get
 # a random value to define stock prices
 
