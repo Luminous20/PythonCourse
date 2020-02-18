@@ -1,3 +1,7 @@
+# Homework by Clara Schlosser KU 0073323
+# For INTL 308
+
+
 import unittest
 from homework1 import Portfolio
 from homework1 import MutualFund
